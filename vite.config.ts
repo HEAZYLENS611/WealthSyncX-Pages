@@ -7,7 +7,7 @@ import { componentTagger } from 'lovable-tagger'
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // GitHub Pages friendly: use '/' for custom domains to avoid white screen issues.
-  base: '/',
+  base: 'PAGINA-DE-VENDAS-APOSENTE-',
   server: {
     port: 8080,
   },
